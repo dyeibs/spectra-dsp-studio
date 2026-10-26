@@ -1,8 +1,6 @@
 # SPECTRA — DSP Studio
 
-**Group 6** · CPE07A · DIGISIG · Engr. Rodante Santos
-
-Elideros, John Ver D. (Leader) · Banal, Ryan P. · Batac, Jayson V. · Manuyag, Darwin F.
+**Group 6** · CPE07A · DIGISIG
 
 
 **S**ignal **P**rocessing, **E**nhancement, **C**haracterisation, **T**ransform & **R**estoration **A**pplication
